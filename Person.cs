@@ -59,6 +59,7 @@ namespace PersonLab
             Console.WriteLine(age + 10);
         }
         
+        /*
         public void ToString()
         {
             List<Person> persons = new List<>();
@@ -73,9 +74,10 @@ namespace PersonLab
                 int age = person.age;
                 string favoriteColor = person.favoriteColor;
                 bool isWorking = person.isWorking;
-                
+                Console.Write(List<>);
             }
+            
         }
-        
+        */
     }
 }

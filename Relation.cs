@@ -8,15 +8,6 @@ namespace PersonLab
 {
     internal class Relation
     {
-        public string RelationshipType
-        { get
-            {
-                return this.RelationshipType;
-            }
-          set
-            {
-                if ((value == "Sister" || value == "Brother" || value == "Mother" || value == "Father")) ;
-            }
-        }
+        private string RelationshipType;
     }
 }
