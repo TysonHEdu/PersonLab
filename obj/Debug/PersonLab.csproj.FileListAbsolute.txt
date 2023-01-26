@@ -1,0 +1,8 @@
+C:\Users\Tyson\Desktop\School Work\OOP2\Week 2\PersonLab\PersonLab\bin\Debug\PersonLab.exe.config
+C:\Users\Tyson\Desktop\School Work\OOP2\Week 2\PersonLab\PersonLab\bin\Debug\PersonLab.exe
+C:\Users\Tyson\Desktop\School Work\OOP2\Week 2\PersonLab\PersonLab\bin\Debug\PersonLab.pdb
+C:\Users\Tyson\Desktop\School Work\OOP2\Week 2\PersonLab\PersonLab\obj\Debug\PersonLab.csproj.AssemblyReference.cache
+C:\Users\Tyson\Desktop\School Work\OOP2\Week 2\PersonLab\PersonLab\obj\Debug\PersonLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tyson\Desktop\School Work\OOP2\Week 2\PersonLab\PersonLab\obj\Debug\PersonLab.csproj.CoreCompileInputs.cache
+C:\Users\Tyson\Desktop\School Work\OOP2\Week 2\PersonLab\PersonLab\obj\Debug\PersonLab.exe
+C:\Users\Tyson\Desktop\School Work\OOP2\Week 2\PersonLab\PersonLab\obj\Debug\PersonLab.pdb
